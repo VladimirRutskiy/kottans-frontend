@@ -112,4 +112,46 @@
     </li>
   </ol>
 </details>
+<details>
+  <summary>4. Responsive Web Design</summary>
+  <h2>Responsive Web Design</h2>
+  <ol>
+    <li>Прочитано статтю
+      <a href='https://web.dev/i18n/en/responsive-web-design-basics/'>Responsive web design basics</a>
+      <p>В принципі не новий матеріал, все мені знайомо</p>
+    </li>
+    <li>Переглянуто відео курс
+      <a href='https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x'>FLEXBOX. Вчимося верстати на флексах</a>
+      <p>Тут мені трошки повезло і я швидше перейшов до наступного завдання, бо цей плейліст вже був переглянутий на моєму аккаунті ютуб</p>
+      <details>
+        <summary>Screenshot</summary>
+        <img alt="Снимок экрана 2022-08-13 в 11.39.42" src="task_responsive_web_design/Снимок экрана 2022-08-13 в 11.39.42.png">
+      </details>
+    </li>
+    <li>Пройдено гру
+      <a href='https://flexboxfroggy.com/'>Flexbox Froggy - гра для закріплення</a>
+      <p>Тут теж повезло, гру вже проходив) Взагалі дуже люблю такі методи вивчення нової інформації, швидше і краще запамʼятовується</p>
+      <details>
+        <summary>Screenshot</summary>
+        <img alt="Снимок экрана 2022-08-09 в 12 35 48" src="task_responsive_web_design/Снимок экрана 2022-08-13 в 11.41.32.png">
+      </details>
+    </li>
+    <li>Переглянуто відео курс
+      <a href='https://www.youtube.com/playlist?list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm'>CSS Grid Layout</a>
+      <p>Корисний плейліст плюс вже зроблена шпаргалка, автор добре пояснює з гарними прикладами. В мене вже була практика верстки на грідах і цей плейліст був частково переглянутий</p>
+      <details>
+        <summary>Screenshot</summary>
+        <img alt="Снимок экрана 2022-08-13 в 11.39.42" src="task_responsive_web_design/Снимок экрана 2022-08-13 в 13.32.19.png">
+      </details>
+    </li>
+    <li>Пройдено гру
+      <a href='https://cssgridgarden.com/#ru'>Grid Garden - гра для закріплення</a>
+      <p>А цю гру вже довелося проходити, труднощів не виникало, пройшов швидко</p>
+      <details>
+        <summary>Screenshot</summary>
+        <img alt="Снимок экрана 2022-08-09 в 12 35 48" src="task_responsive_web_design/Снимок экрана 2022-08-13 в 14.25.45.png">
+      </details>
+    </li>
+  </ol>
+</details>
 
