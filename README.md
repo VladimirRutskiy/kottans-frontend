@@ -82,4 +82,34 @@
     </li>
   </ol>
 </details>
+<details>
+  <summary>3. Intro to HTML & CSS</summary>
+  <h2>Intro to HTML & CSS</h2>
+  <ol>
+    <li>Прослухано тижні 1 і 2 (до Introduction to Responsive Design) курсу
+      <a href='https://www.coursera.org/learn/html-css-javascript-for-web-developers'>Intro to HTML & CSS</a>
+      <p>Майже все з відео курсу вже знав до цього, але вважаю корисним було закріпити вже набутті знання</p>
+      <details>
+        <summary>Week 1</summary>
+        <img alt="screenshot week 1" src="task_html_css_intro/Снимок экрана 2022-08-13 в 11.06.47.png">
+      </details>
+      <details>
+        <summary>Week 2</summary>
+        <img alt="screenshot week 2" src="task_html_css_intro/Снимок экрана 2022-08-13 в 11.07.01.png">
+      </details>
+    </li>
+    <li>Пройдено інтерактивний курс
+      <a href='https://www.codecademy.com/learn/learn-html'>Learn HTML(Eng)</a>
+      <p>В основному скіпав теорію та переходив зразу до завдань. Дуже корисною виявилась частина з версткою форм, до цього моменту мало верстав саме форм, а тут закріпив зразу на практиці (10 з 10), ще й зробив собі невелику шпаргалку</p>
+    </li>
+    <li>Пройдено інтерактивний курс
+      <a href='https://www.codecademy.com/learn/learn-css'>Learn CSS(Eng)</a>
+      <p>Теж скіпав теорію і робив зразу практичні завдання, так як вся теорія вже мені знайома</p>
+      <details>
+        <summary>Screenshots</summary>
+        <img alt="Снимок экрана 2022-08-09 в 12 35 48" src="task_html_css_intro/Снимок экрана 2022-08-11 в 22.34.46.png">
+      </details>
+    </li>
+  </ol>
+</details>
 
