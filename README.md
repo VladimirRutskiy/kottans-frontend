@@ -154,4 +154,71 @@
     </li>
   </ol>
 </details>
-
+<details>
+  <summary>5. HTML & CSS Practice</summary>
+  <h2>HTML і CSS практика: Hooli-style Popup</h2>
+  <ol>
+    <li>Виконано <a href='https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md'>завдання</a>  по створенню popup з використанням тільки HTML and CSS</li>
+    <a href='https://vladimirrutskiy.github.io/hooli-popup/'>DEMO</a>
+  </ol>
+</details>
+<details>
+  <summary>6. JavaScript Basics</summary>
+  <h2>JavaScript Basics</h2>
+  <ol>
+    <li>Переглянуто відео курс
+      <a href='https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4'>Introduction to JavaScript</a>
+      <p>Майже вся інформація була вже знайома до цього</p>
+      <details>
+        <summary>Week 4</summary>
+        <img alt="Снимок экрана 2022-08-19 в 16.39.33.png" src="task_js_basics/Снимок экрана 2022-08-19 в 16.39.33.png">
+      </details>
+    </li>
+    <li>Завершено вправи FreeCodeCamp
+      <ul>
+        <li>
+          <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/">Basic JavaScript</a>
+          <details>
+            <summary>Screenshot</summary>
+            <img alt="Снимок экрана 2022-08-21 в 13.13.00.png" src="task_js_basics/Снимок экрана 2022-08-21 в 13.13.00.png">
+          </details>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/">ES6 Challenges</a>
+          <details>
+            <summary>Screenshot</summary>
+            <img alt="Снимок экрана 2022-08-21 в 13.15.09.png" src="task_js_basics/Снимок экрана 2022-08-21 в 13.15.09.png">
+          </details>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/">Basic Data Structures</a>
+          <details>
+            <summary>Screenshot</summary>
+            <img alt="Снимок экрана 2022-08-21 в 13.16.36.png" src="task_js_basics/Снимок экрана 2022-08-21 в 13.16.36.png">
+          </details>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/">Basic Algorithm Scripting</a>
+          <details>
+            <summary>Screenshot</summary>
+            <img alt="Снимок экрана 2022-08-21 в 13.18.10.png" src="task_js_basics/Снимок экрана 2022-08-21 в 13.18.10.png">
+          </details>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/">Functional Programming</a>
+          <details>
+            <summary>Screenshot</summary>
+            <img alt="Снимок экрана 2022-08-21 в 13.19.23.png" src="task_js_basics/Снимок экрана 2022-08-21 в 13.19.23.png">
+          </details>
+        </li>
+        <li>
+          <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/">Algorithm Scripting Challenges (Розвʼязано початкові 11 задач)</a>
+          <details>
+            <summary>Screenshot</summary>
+            <img alt="Снимок экрана 2022-08-21 в 13.21.39.png" src="task_js_basics/Снимок экрана 2022-08-21 в 13.21.39.png">
+          </details>
+        </li>
+      </ul>
+      <p>Дуже крута платформа для вивчення програмування, не тільки JS. Сподобалось ломати голову над деякими завданнями і впадати в ейфорію по моменту їх вирішення. На початку все здавалось надто простим, а ось вже наприкінці змусило добре попрацювати. Задачі по методам масивів топ, давно так не ломав голову =) Думаю через деякий час повернутись до них, щоб ще раз перевірити і вдосконалити вивчене)</p>
+  </ol>
+</details>
