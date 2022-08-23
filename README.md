@@ -248,3 +248,14 @@
     </li>
   </ol>
 </details>
+<details>
+  <summary>8. Building a Tiny JS World (pre-OOP) </summary>
+  <h2>Building a Tiny JS World</h2>
+  <ol>
+    <li>Створено a tiny JS world model, дотримуючись інструкцій
+      <a href='https://github.com/OleksiyRudenko/a-tiny-JS-world'> тут</a>
+      <p><a href='https://vladimirrutskiy.github.io/a-tiny-JS-world/'>DEMO</a></p>
+    </li>
+    
+  </ol>
+</details>
