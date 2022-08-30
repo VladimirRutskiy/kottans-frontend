@@ -256,6 +256,29 @@
       <a href='https://github.com/OleksiyRudenko/a-tiny-JS-world'> тут</a>
       <p><a href='https://vladimirrutskiy.github.io/a-tiny-JS-world/'>DEMO</a></p>
     </li>
-    
+  </ol>
+</details>
+<details>
+  <summary>9. Object oriented JS </summary>
+  <h2>Object-Oriented JavaScript</h2>
+  <ol>
+    <li>Переглянуто відео 
+      <a href='https://www.youtube.com/watch?v=jgCiWIdUZ-s&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=41'> ООП 1 частина - Класи</a>
+    </li>
+    <li>Переглянуто відео 
+      <a href='https://www.youtube.com/watch?v=e-3GS5-rak8&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=471'> ООП 2 частина - Прототипи</a>
+    </li>
+    <li>Виконано завдання
+      <a href='https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop-frogger.md'> Практика - Classic Frogger Game
+      </a>
+      <p><a href='https://vladimirrutskiy.github.io/frontend-nanodegree-arcade-game/'>DEMO</a></p>
+    </li>
+    <li>Приєднався до клану та досягнув 7 kyu
+      <a href='https://www.codewars.com/'> Codewars</a>
+    </li>
+    <details>
+        <summary>Screenshot</summary>
+        <img alt="Снимок экрана 2022-08-13 в 11.39.42" src="task_js_oop/Снимок экрана 2022-08-29 в 20.06.11.png">
+      </details>
   </ol>
 </details>
