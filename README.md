@@ -223,7 +223,7 @@
   </ol>
 </details>
 <details>
-  <summary>7. Document Object Model </summary>
+  <summary>7. Document Object Model - practice </summary>
   <h2>Document Object Model</h2>
   <ol>
     <li>Проглянуто розділ 
@@ -249,7 +249,7 @@
   </ol>
 </details>
 <details>
-  <summary>8. Building a Tiny JS World (pre-OOP) </summary>
+  <summary>8. Building a Tiny JS World (pre-OOP) - practice</summary>
   <h2>Building a Tiny JS World</h2>
   <ol>
     <li>Створено a tiny JS world model, дотримуючись інструкцій
@@ -259,7 +259,7 @@
   </ol>
 </details>
 <details>
-  <summary>9. Object oriented JS </summary>
+  <summary>9. Object oriented JS - practice</summary>
   <h2>Object-Oriented JavaScript</h2>
   <ol>
     <li>Переглянуто відео 
@@ -280,5 +280,15 @@
         <summary>Screenshot</summary>
         <img alt="Снимок экрана 2022-08-13 в 11.39.42" src="task_js_oop/Снимок экрана 2022-08-29 в 20.06.11.png">
       </details>
+  </ol>
+</details>
+<details>
+  <summary>10. OOP exercise - practice </summary>
+  <h2>OOP exercise</h2>
+  <ol>
+    <li>Вдосконалено Tiny Js worls model з використанням методів JS OOP <br>
+      <a href='https://vladimirrutskiy.github.io/a-tiny-JS-world/'>DEMO</a><br>
+      <a href='https://github.com/VladimirRutskiy/a-tiny-JS-world'>Code</a>
+    </li>
   </ol>
 </details>
